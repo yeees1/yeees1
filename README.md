@@ -15,13 +15,13 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=clion" height="40" alt="clion" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg" height="40" alt="clion" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=goland" height="40" alt="goland" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/goland/goland-original.svg" height="40" alt="goland" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=datagrip" height="40" alt="datagrip" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datagrip/datagrip-original.svg" height="40" alt="datagrip" />
 </div>
 
 ###
@@ -36,8 +36,18 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yeees1&theme=github_dark" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yeees1&theme=github_dark&utcOffset=3" height="170" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yeees1&theme=github_dark" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yeees1&theme=github_dark" height="170" />
+</div>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yeees1&theme=dark&show_icons=true&hide_border=true&count_private=true&locale=ru" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yeees1&theme=github_dark" />
 </p>
 
 ###
