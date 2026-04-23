@@ -2,11 +2,17 @@
 
 ###
 
+<!-- LANG_ICONS_START -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="c++" />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" />
+</div>
+<!-- LANG_ICONS_END -->
+
+###
+
+<div align="center">
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux" />
