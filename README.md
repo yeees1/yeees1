@@ -7,6 +7,8 @@
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="C++" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" />
 </div>
 <!-- LANG_ICONS_END -->
 
