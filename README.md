@@ -27,23 +27,12 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Репозитории-3-blue?style=for-the-badge&logo=github&logoColor=white" alt="repos" />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/Размер_репозиториев-1.06_MB-green?style=for-the-badge&logo=databricks&logoColor=white" alt="size" />
-  <img width="8" />
-  <img src="https://img.shields.io/badge/Коммитов_в_2026-3-orange?style=for-the-badge&logo=git&logoColor=white" alt="commits" />
-</div>
-
-###
-
-<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yeees1&theme=github_dark" height="170" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yeees1&theme=github_dark&utcOffset=3" height="170" />
 </div>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yeees1&theme=github_dark" height="170" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yeees1&theme=github_dark" height="170" />
 </div>
 
 <p align="center">
