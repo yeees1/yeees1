@@ -9,6 +9,8 @@
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="40" alt="Go" />
 </div>
 <!-- LANG_ICONS_END -->
 
@@ -35,16 +37,16 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yeees1&theme=github_dark&t=1776924561" height="170" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yeees1&theme=github_dark&utcOffset=3&t=1776924561" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yeees1&theme=github_dark&t=1776940556" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yeees1&theme=github_dark&utcOffset=3&t=1776940556" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yeees1&theme=github_dark&t=1776924561" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yeees1&theme=github_dark&t=1776940556" height="170" />
 </div>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yeees1&theme=github_dark&t=1776924561" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yeees1&theme=github_dark&t=1776940556" />
 </p>
 
 ###
