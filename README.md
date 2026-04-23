@@ -41,11 +41,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yeees1&theme=github_dark&utcOffset=3" height="170" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yeees1&theme=github_dark" height="170" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yeees1&theme=github_dark" height="170" />
-</div>
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yeees1&theme=github_dark" />
 </p>
@@ -53,7 +48,7 @@
 ###
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yeees1&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=6" />
+  <img src="https://github-trophies.vercel.app/?username=yeees1&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=6" />
 </p>
 
 ###
