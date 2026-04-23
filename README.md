@@ -3,27 +3,47 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="c++" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=clion" height="40" alt="clion" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=goland" height="40" alt="goland" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="pycharm" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=datagrip" height="40" alt="datagrip" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Репозитории-3-blue?style=for-the-badge&logo=github&logoColor=white" alt="repos" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Размер_репозиториев-1.06_MB-green?style=for-the-badge&logo=databricks&logoColor=white" alt="size" />
+  <img width="8" />
+  <img src="https://img.shields.io/badge/Коммитов_в_2026-3-orange?style=for-the-badge&logo=git&logoColor=white" alt="commits" />
 </div>
 
 ###
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yeees1&theme=dark&show_icons=true&hide_border=true&count_private=true&locale=ru">
+  <img src="https://github-readme-stats.vercel.app/api?username=yeees1&theme=dark&show_icons=true&hide_border=true&count_private=true&locale=ru" />
 </p>
 
 ###
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeees1&theme=dark&hide_border=true&layout=compact">
+  <img src="https://github-profile-trophy.vercel.app/?username=yeees1&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=6" />
 </p>
 
 ###
